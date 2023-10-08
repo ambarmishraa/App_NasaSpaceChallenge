@@ -12,9 +12,7 @@
 
 
 **➌Tap on the downloaded file on your device for installion.**
-![5](https://github.com/ambarmishraa/App_NasaSpaceChallenge/assets/119369782/6b155573-93c9-44f1-81ad-3fceb80837a1)
-![6](https://github.com/ambarmishraa/App_NasaSpaceChallenge/assets/119369782/c2e9efc5-b712-46e5-bb57-31afd8e99d94)
-![7](https://github.com/ambarmishraa/App_NasaSpaceChallenge/assets/119369782/ba215d57-77b0-4dd8-a24b-0693eb6b1b1e)
+![5](https://github.com/ambarmishraa/App_NasaSpaceChallenge/assets/119369782/6b155573-93c9-44f1-81ad-3fceb80837a1)![6](https://github.com/ambarmishraa/App_NasaSpaceChallenge/assets/119369782/c2e9efc5-b712-46e5-bb57-31afd8e99d94)![7](https://github.com/ambarmishraa/App_NasaSpaceChallenge/assets/119369782/ba215d57-77b0-4dd8-a24b-0693eb6b1b1e)
 
 
 
